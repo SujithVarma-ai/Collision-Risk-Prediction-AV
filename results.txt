@@ -1,0 +1,40 @@
+Project: Collision Risk Prediction in Autonomous Ambulance System
+
+Model: Random Forest Classifier
+
+Train-Test Split:
+- Training Data: 80%
+- Testing Data: 20%
+
+Evaluation Metrics:
+- Accuracy: 1.00
+- Precision: 1.00
+- Recall: 1.00
+- F1-score: 1.00
+
+Support:
+- Low Risk (0): 73 samples
+- High Risk (1): 27 samples
+
+Cross-Validation:
+- Scores: [1.0, 1.0, 1.0, 1.0, 1.0]
+- Average Accuracy: 1.00
+
+Confusion Matrix:
+- True Negatives (TN): 73
+- True Positives (TP): 27
+- False Positives (FP): 0
+- False Negatives (FN): 0
+
+ROC Curve:
+- AUC Score: 1.00
+
+Key Observations:
+- Model perfectly classifies both high-risk and low-risk scenarios
+- Minimum distance is the most influential feature
+- High object density increases collision risk
+
+Note:
+- The model shows very high accuracy due to clear feature separation in the dataset
+- Collision risk is derived using rule-based conditions, making classification easier
+- In real-world scenarios, performance may decrease due to complex and uncertain environments
