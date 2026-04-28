@@ -3,7 +3,7 @@
 ---
 
 ## 📌 Project Overview
-This project focuses on predicting collision risk in an Autonomous Ambulance System using machine learning. The model analyzes traffic conditions and classifies scenarios as **High Risk** or **Low Risk**, helping improve safety in emergency navigation.
+Safety-focused machine learning project that predicts **High Risk** or **Low Risk** collision scenarios for autonomous ambulance navigation.
 
 ---
 
