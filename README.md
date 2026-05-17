@@ -2,6 +2,11 @@
 
 ---
 
+## 🚗 Autonomous Vehicles (AVs)
+Autonomous Vehicles use artificial intelligence, sensors, and machine learning to navigate and operate without human intervention. In emergency systems such as autonomous ambulances, collision risk prediction is essential for ensuring safe and efficient navigation.
+
+---
+
 ## 📌 Project Overview
 Safety-focused machine learning project that predicts **High Risk** or **Low Risk** collision scenarios for autonomous ambulance navigation.
 
